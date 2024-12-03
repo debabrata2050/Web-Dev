@@ -1,0 +1,38 @@
+h1{
+    color: red;
+}
+h2{
+    color: lightgreen;
+    font-style: italic;
+
+}
+.large{
+    font-weight: lighter;
+    font-size: large;
+}
+.small{
+    font-weight: lighter;
+    font-size: xx-small;
+}
+ul{
+    color:brown
+}
+.list1{
+    margin-bottom: 15px;
+}
+.list2{
+    letter-spacing: 5px;
+}
+span{
+    background-color: yellow;
+}
+.last{
+    color: brown;
+}
+u{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
